@@ -3,7 +3,7 @@ html {
   font-family: sans-serif;
 }
 #hangman {
-  max-width: 800px;
+  width: 800px;
   margin: 30px auto;
 }
 
@@ -21,8 +21,8 @@ html {
 }
 
 #letters button {
-  padding: 10px;
-  margin: 10px;
+  padding: 8px;
+  margin: 8px;
 }
 
 #output {
